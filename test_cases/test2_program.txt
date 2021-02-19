@@ -1,0 +1,15 @@
+something
+something
+if 10
+something
+something
+goto 11
+10
+something
+something
+11
+something
+if 10
+something
+12
+something

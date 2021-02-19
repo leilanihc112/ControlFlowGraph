@@ -1,0 +1,7 @@
+l0 
+something
+if l1
+something
+l1
+something
+goto l0

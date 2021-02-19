@@ -1,0 +1,8 @@
+something
+if lab1
+something
+lab1
+if lab2
+something
+lab2
+something

@@ -1,0 +1,5 @@
+something
+goto gotolabel
+something
+gotolabel
+something

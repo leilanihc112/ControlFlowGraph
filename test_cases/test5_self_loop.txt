@@ -1,0 +1,4 @@
+lab
+something
+goto lab
+something
